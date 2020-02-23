@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">ListViewUsingArrayArrayAdapterCustomizesAdapter</string>
+    <string-array name="Array_item">
+        <item>kibria</item>
+        <item>akhi</item>
+        <item>rakib</item>
+        <item>rabbani</item>
+        <item>malaka</item>
+        <item>jannaton</item>
+        <item>dalower</item>
+        <item>rokeya</item>
+        <item>jakaria</item>
+        <item>mahmud</item>
+        <item>helal</item>
+        <item>akhi</item>
+        <item>monni</item>
+        <item>sohag</item>
+        <item>ariyan</item>
+        <item>kholil</item>
+        <item>abir</item>
+        <item>aiman</item>
+        <item>sadik</item>
+        <item>rosni</item>
+        <item>china</item>
+        <item>ali akbor</item>
+        <item>arfan</item>
+        <item>borhan</item>
+        <item>sohan</item>
+        <item>mamun</item>
+        <item>anna</item>
+        <item>habiba</item>
+        <item>hawa</item>
+    </string-array>
+</resources>
