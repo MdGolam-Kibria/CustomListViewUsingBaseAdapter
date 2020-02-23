@@ -41,7 +41,7 @@ public class CustomAdapter extends BaseAdapter {
 
     @Override
     public View getView(int position, View convertView, ViewGroup parent) {
-        if (convertView == null) {//jahoto ar aga kon view create hoi nai.
+        if (convertView == null) {//jahoto ar age kon view create hoi nai.
             inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             convertView = inflater.inflate(R.layout.simple, parent, false);
             ImageView imageView = (ImageView) convertView.findViewById(R.id.imageView);
